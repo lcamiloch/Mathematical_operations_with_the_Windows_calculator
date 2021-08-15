@@ -1,0 +1,48 @@
+!**/src/main/**/target/
+!**/src/test/**/target/
+*/target/**
+*/Reports/**
+*/test-output/**
+*/.settings/**
+*executable/**
+*jump/**
+out/
+
+/target/
+/Reports/
+/test-output/
+/.settings/
+.idea/
+
+# Compiled class file
+*.class
+
+# Log file
+*.log
+# Package Files #
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# IDEs and editors
+.idea
+.project
+.classpath
+
+# Maven
+Reports
+test-output
+
+# Extensions
+*#
+*.iml
+*.ipr
+*.iws
+.jar
+*.sw?
+*~
+.#*
+.*.md.html
